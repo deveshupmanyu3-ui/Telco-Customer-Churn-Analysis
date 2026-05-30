@@ -113,5 +113,5 @@ Telco-Customer-Churn-Analysis/
 
 ## 👤 Author
 **Devesh Upmanyu**
-- LinkedIn: linkedin.com/in/devesh-upmanyu
+- LinkedIn: www.linkedin.com/in/devesh-upmanyu
 - Email: deveshupmanyu3@gmail.com
