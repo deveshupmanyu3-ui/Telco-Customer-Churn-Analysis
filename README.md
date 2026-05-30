@@ -96,7 +96,8 @@ Telco-Customer-Churn-Analysis/
 ---
 
 ## 📊 Dashboard Preview
-![Churn Dashboard]
+<img width="1164" height="656" alt="Screenshot 2026-05-29 193038" src="https://github.com/user-attachments/assets/9a5911ac-5d6b-47a9-8b2e-030eb3f1b78f" />
+
 
 
 
