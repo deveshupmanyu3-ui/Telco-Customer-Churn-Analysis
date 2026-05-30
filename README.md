@@ -21,7 +21,7 @@ to improve customer retention.
 ```
 Telco-Customer-Churn-Analysis/
 │
-├── Telco_Churn_Analysis.ipynb       # Python analysis notebook
+├── Telco_Customer_Churn_Analysis.ipynb       # Python analysis notebook
 ├── Telco_Churn_SQL.ipynb            # SQL queries notebook
 ├── telco_churn_cleaned.csv          # Cleaned dataset
 ├── churn.db                         # SQLite database
